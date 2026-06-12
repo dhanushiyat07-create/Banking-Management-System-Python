@@ -26,13 +26,11 @@ datetime Module| Transaction Timestamps
 
 # 📂 Project Structure
 
-Bank-Account-Management-System/
+Bank-Account-Management-System-Python
 
-
-|
-|___ Banking_Management_System.py
-
-└── README.md
+___ Program Output
+___ Banking_Management_System_Python.py
+___ README.md
 
 ---
 
@@ -42,7 +40,7 @@ Bank-Account-Management-System/
 2. Open the project folder.
 3. Run the Python file:
 
- Banking_Management_System.py
+ Banking_Management_System_Python.py
 
 ---
 
