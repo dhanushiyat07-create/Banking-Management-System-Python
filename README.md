@@ -45,7 +45,8 @@ python Banking_Management_System.py
 ---
 
 # 💡 Program Output
-<a> <img width="1920" height="1080" alt="Program Output" src="https://github.com/user-attachments/assets/44de206b-26a5-4c85-a64a-ad376b9a015d" /> <\a>
+<a> https://1drv.ms/v/c/7997fbfab1696aee/IQDWWIeVd9GJRaaeHTNAZfSLASRn6KQ5rinR19Y_QVtP7Hs?e=31hIeu </a>
+
 
 
 ---
