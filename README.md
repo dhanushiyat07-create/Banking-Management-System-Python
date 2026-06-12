@@ -28,7 +28,9 @@ datetime Module| Transaction Timestamps
 
 Bank-Account-Management-System/
 
-├── Banking_Management_System.py
+
+|
+|___ Banking_Management_System.py
 
 └── README.md
 
@@ -40,7 +42,7 @@ Bank-Account-Management-System/
 2. Open the project folder.
 3. Run the Python file:
 
-python Banking_Management_System.py
+ Banking_Management_System.py
 
 ---
 
@@ -64,6 +66,10 @@ python Banking_Management_System.py
 Dhanushiya T
 
 Aspiring Data Analyst | Python Developer
+
+📧 E-mail:dhanushiyat07@gmail.com
+🔗 LinkedIn profile:
+https://linkedin.com/in/dhanushiya-t-0aa198316
 
 ---
 
