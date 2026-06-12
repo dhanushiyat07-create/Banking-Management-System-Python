@@ -44,17 +44,9 @@ python Banking_Management_System.py
 
 ---
 
-# 💡 Sample Output
+# 💡 Program Output
+<a> <img width="1920" height="1080" alt="Program Output" src="https://github.com/user-attachments/assets/44de206b-26a5-4c85-a64a-ad376b9a015d" /> <\a>
 
-Enter Account Holder Name: Dhanushiya
-
-Enter Account Number: 4567890
-
-Enter Initial Balance: 1000
-
-Enter PIN Number: 3377
-
-New Account Created
 
 ---
 
